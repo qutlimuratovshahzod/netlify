@@ -9,3 +9,13 @@ main{
     height: 100vh;
     background-color: aqua;
 }
+a{
+    color: inherit;
+    background-color: lawngreen;
+    font-size: 30px;
+
+}
+ul{
+    display: flex;
+    align-items: center;
+}
